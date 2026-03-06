@@ -1,4 +1,4 @@
-# ChronoFrame
+# Clockwork
 
 ## Micro Frame Video Forensic Extractor
 
@@ -123,4 +123,5 @@ chronoframe/
 This project is intended for educational purposes, digital forensics, and authorized security research only.
 
 Users are responsible for ensuring that the use of this software complies with all applicable laws and regulations.
+
 
