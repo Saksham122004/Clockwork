@@ -41,8 +41,8 @@ ChronoFrame can be used for:
 Clone the repository:
 
 ```bash
-git clone https://github.com/TechnicalSam/chronoframe.git
-cd chronoframe
+git clone https://github.com/Saksham122004/Clockwork.git
+cd Clockwork
 ```
 
 Install dependencies:
@@ -70,13 +70,13 @@ Required Python packages:
 Basic syntax:
 
 ```bash
-python microframe.py <video_file> -i <interval> -o <output_folder>
+python Clockwork.py <video_file> -i <interval> -o <output_folder>
 ```
 
 Example:
 
 ```bash
-python microframe.py video.mp4 -i 0.01 -o frames
+python Clockwork.py video.mp4 -i 0.01 -o frames
 ```
 
 ---
@@ -105,23 +105,11 @@ Each extracted frame contains a timestamp in the filename indicating the exact m
 
 ---
 
-## Project Structure
-
-```
-chronoframe/
-│
-├── microframe.py
-├── requirements.txt
-├── README.md
-└── output_frames/
-```
-
----
-
 ## Disclaimer
 
 This project is intended for educational purposes, digital forensics, and authorized security research only.
 
 Users are responsible for ensuring that the use of this software complies with all applicable laws and regulations.
+
 
 
