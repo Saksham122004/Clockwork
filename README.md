@@ -2,7 +2,7 @@
 
 ## Micro Frame Video Forensic Extractor
 
-ChronoFrame is a Python-based digital forensics tool designed to extract micro-level frames from video files for detailed investigation and analysis.
+Clockwork is a Python-based digital forensics tool designed to extract micro-level frames from video files for detailed investigation and analysis.
 
 The tool allows investigators, researchers, and security analysts to capture frames at custom time intervals (seconds or milliseconds) to analyze events that occur too quickly for normal video playback.
 
@@ -110,6 +110,7 @@ Each extracted frame contains a timestamp in the filename indicating the exact m
 This project is intended for educational purposes, digital forensics, and authorized security research only.
 
 Users are responsible for ensuring that the use of this software complies with all applicable laws and regulations.
+
 
 
 
