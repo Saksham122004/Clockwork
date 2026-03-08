@@ -6,7 +6,7 @@ Clockwork is a Python-based digital forensics tool designed to extract micro-lev
 
 The tool allows investigators, researchers, and security analysts to capture frames at custom time intervals (seconds or milliseconds) to analyze events that occur too quickly for normal video playback.
 
-ChronoFrame can assist in video evidence analysis, CCTV investigation, and frame-by-frame forensic examination.
+Clockwork can assist in video evidence analysis, CCTV investigation, and frame-by-frame forensic examination.
 
 ---
 
@@ -24,7 +24,7 @@ ChronoFrame can assist in video evidence analysis, CCTV investigation, and frame
 
 ## Use Cases
 
-ChronoFrame can be used for:
+Clockwork can be used for:
 
 * Digital forensics investigations
 * CCTV footage analysis
@@ -110,6 +110,7 @@ Each extracted frame contains a timestamp in the filename indicating the exact m
 This project is intended for educational purposes, digital forensics, and authorized security research only.
 
 Users are responsible for ensuring that the use of this software complies with all applicable laws and regulations.
+
 
 
 
